@@ -6,6 +6,7 @@ from pathfinding.core.diagonal_movement import DiagonalMovement
 GRID_X = 32
 GRID_Y = 32
 
+
 class Pathfinder:
     def __init__(self, matrix):
 
